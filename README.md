@@ -49,4 +49,4 @@ Congratulations. My name is Dmitro. I am a junior FullStack developer. My techno
 
 ---
 
-<img style="margin: 10px" src="https://images.squarespace-cdn.com/content/v1/64c911ae7388967e1679a000/4588e0ef-db34-4a80-895a-1fb0eb2e8e77/8e8e8bf3-9f3c-4b5b-9045-5ebb945e8aea.png=" alt="Skills" />
+<img style="margin: 10px" src="https://d1ub0o53i85pdh.cloudfront.net/uploads/2021/09/shutterstock_2034345302.jpg" alt="Skills" />
