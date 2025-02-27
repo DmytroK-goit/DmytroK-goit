@@ -24,6 +24,23 @@ Congratulations. My name is Dmitro. I am a junior FullStack developer. My techno
   </div>
 
 ---
+### Languages :
+
+<div style="display: flex; align-items: flex-start; align: center">
+<table  align="center">
+  <tr>
+    
+        🇺🇦 Ukrainian - Native
+        
+  </tr>
+
+  <tr>
+    
+        🇬🇧 English - Pre-Intermediate
+        
+  </tr>
+</table>
+</div>
 
 ### 💻 My stack:
 
