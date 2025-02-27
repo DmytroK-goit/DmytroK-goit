@@ -1,14 +1,14 @@
 # KovbasiukDmytro
 ![MasterHead](https://media3.giphy.com/media/v1.Y2lkPTc5MGI3NjExZnIzbXVpNGR4YmcwMjNyMjk4Y2xwZmM0a2JrOWZmaHk2a214Nms0byZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/qgQUggAC3Pfv687qPC/giphy.gif)
 
-# Hi, my name is Sergey!
+# Hi, my name is Dmytro!
 
 ---
 
 ### :man_technologist: Summary:
 
 
-Congratulations. My name is Dmitrщ. I am a junior FullStack developer. My technology stack that I use in my work is HTML, CSS, JS, React, Node.js, MongoDB. 🌟
+Congratulations. My name is Dmitro. I am a junior FullStack developer. My technology stack that I use in my work is HTML, CSS, JS, React, Node.js, MongoDB. 🌟
 
 
 
