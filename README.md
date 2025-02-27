@@ -44,7 +44,6 @@ Congratulations. My name is Dmitro. I am a junior FullStack developer. My techno
 
 
 ### 💻 My stack:
-
 <div style="display: flex; align-items: flex-start; align: center">
 <table align="center">
   <tr>
@@ -60,18 +59,39 @@ Congratulations. My name is Dmitro. I am a junior FullStack developer. My techno
          <img src="./images/03-javascript.svg" alt="JS" width="44" height="44"/>
       <br>JavaScript
     </td>
-    
-    
+    <td align="center" width="88">
+        <img src="./images/04-typescript.svg" alt="TS" width="44" height="44"/>
+      <br>TypeScript
+    </td>
+    <td align="center" width="88">
+        <img src="./images/05-python.svg" alt="Python" width="44" height="44"/>
+      <br>Python
+    </td>
     <td align="center" width="88">
         <img src="./images/06-react.svg" alt="React" width="44" height="44"/>
       <br>React.js
     </td>
-       <td align="center" width="88">
+    <td align="center" width="88">
+        <img src="./images/07-nextjs.svg" alt="Next.js" width="44" height="44"/>
+      <br>Next.js
+    </td>
+    <td align="center" width="88">
       <img src="./images/08-nodejs.svg" alt="Node.js" width="44" height="44"/>
       <br>Node.js
-    
-
-   
+    </td>
+        <td align="center" width="88">
+       <img src="./images/09-sql.svg" alt="SQL" width="44" height="44"/>
+      <br>SQL
+      </td>
+  </tr>
+    <td align="center" width="88">
+        <img src="./images/10-sass.svg" alt="Sass" width="44" height="44"/>
+      <br>Sass
+    </td>
+    <td align="center" width="88"> 
+        <img src="./images/11-bem.svg" alt="Bem" width="44" height="44"/>
+      <br>BEM
+    </td>
     <td align="center"  width="88">
         <img src="./images/12-tailwind.svg" alt="Tailwind" width="44" height="44"/>
       <br>Tailwind
