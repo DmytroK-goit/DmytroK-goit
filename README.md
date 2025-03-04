@@ -42,13 +42,15 @@ Congratulations. My name is Dmytro. I am 37 years old. I am a junior FullStack d
 </table>
 </div>
 ### 💻 My Projects:
-<div style="display: flex; align-items: flex-start; align: center">
+<div style="display: flex; align-items: flex-start;">
   <ul>
-    <li>1<li/>
-    <li>2<li/>
-    <li>3<li/>
-    <li>4<li/>
-    <ul/>
+    <li><a href="https://phone-book-full-stack.vercel.app/" target="_blank">Phone Book Full Stack</a></li>
+    <li><a href="https://github.com/DmytroK-goit/AquaTrack-group-01" target="_blank">AquaTrack Group 01</a></li>
+    <li><a href="https://github.com/DmytroK-goit/TravelTrucks" target="_blank">TravelTrucks</a></li>
+    <li><a href="https://github.com/DmytroK-goit/stp-7973" target="_blank">STP-7973</a></li>
+    <li><a href="https://goit-react-hw-05-three-beige.vercel.app/" target="_blank">GOIT React HW-05 Three</a></li>
+    <li><a href="https://dmytrok-goit.github.io/project-js-group02/" target="_blank">Project JS Group 02</a></li>
+  </ul>
 </div>
 
 ### 💻 My stack:
