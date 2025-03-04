@@ -41,6 +41,7 @@ Congratulations. My name is Dmytro. I am 37 years old. I am a junior FullStack d
   </tr>
 </table>
 </div>
+---
 ### 💻 My Projects:
 <div style="display: flex; align-items: flex-start;">
   <ul>
@@ -52,7 +53,7 @@ Congratulations. My name is Dmytro. I am 37 years old. I am a junior FullStack d
     <li><a href="https://dmytrok-goit.github.io/project-js-group02/" target="_blank">Project JS Group 02</a></li>
   </ul>
 </div>
-
+---
 ### 💻 My stack:
 <div style="display: flex; align-items: flex-start; align: center">
   <table align="center">
