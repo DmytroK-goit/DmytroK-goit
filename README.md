@@ -72,6 +72,10 @@ Congratulations. My name is Dmytro. I am 37 years old. I am a junior FullStack d
         <img src="./images/02-css3.svg" alt="CSS3" width="44" height="44" />
         <br />CSS3
       </td>
+        <td align="center" width="84">
+        <img src="./images/scss-svgrepo-com.svg" alt="SCSS" width="44" height="44" />
+        <br />SCSS
+      </td>
       <td align="center" width="84">
         <img src="./images/03-javascript.svg" alt="JS" width="44" height="44" />
         <br />JavaScript
