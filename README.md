@@ -54,6 +54,7 @@ Congratulations. My name is Dmytro. I am 37 years old. I am a junior FullStack d
     <li><a href="https://github.com/DmytroK-goit/stp-7973" target="_blank">STP-7973</a></li>
     <li><a href="https://goit-react-hw-05-three-beige.vercel.app/" target="_blank">GOIT React HW-05 Three</a></li>
     <li><a href="https://dmytrok-goit.github.io/project-js-group02/" target="_blank">Project JS Group 02</a></li>
+    <li><a href="https://it-treveler-kohl.vercel.app/" target="_blank">IT Trevel</a></li>
   </ul>
 </div>
 
