@@ -47,8 +47,9 @@ Congratulations. My name is Dmytro. I am 37 years old. I am a junior FullStack d
 
 <div style="display: flex; align-items: flex-start;">
   <ul>
-    <li><a href="https://phone-book-full-stack.vercel.app/" target="_blank">Phone Book Full Stack</a></li>
+    <li><a href="https://i-store-lyart.vercel.app/" target="_blank">IStore</a></li>
     <li><a href="https://financial-analyst.vercel.app/" target="_blank">Finance APP</a></li>
+    <li><a href="https://phone-book-full-stack.vercel.app/" target="_blank">Phone Book Full Stack</a></li>
     <li><a href="https://aqua-track-group-01.vercel.app/" target="_blank">AquaTrack Group 01</a></li>
     <li><a href="https://travel-trucks-wine.vercel.app/" target="_blank">TravelTrucks</a></li>
     <li><a href="https://github.com/DmytroK-goit/stp-7973" target="_blank">STP-7973</a></li>
