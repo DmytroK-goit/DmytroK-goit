@@ -8,7 +8,27 @@
 ### :man_technologist: Summary:
 
 
-Congratulations. My name is Dmytro. I am 37 years old. I am a junior FullStack developer. My key qualities are responsibility, proactiveness, and a positive attitude. I am constantly learning and striving to master new technologies and improve existing ones. My technology stack that I use in my work is HTML, CSS, JS, React, Node.js, MongoDB. 🌟
+👋 Hi, I’m Dmytro!
+
+I’m a 38-year-old Junior Full Stack Developer with a strong passion for building clean, efficient, and user-friendly web applications.
+
+🚀 About Me
+
+I am responsible, proactive, and always maintain a positive attitude toward my work and team. I constantly strive to grow as a developer — learning new tools, improving my skills, and staying up to date with modern technologies.
+
+🛠️ Tech Stack
+
+Technologies I actively use in my work:
+
+Frontend: HTML, CSS, JavaScript, React
+
+Backend: Node.js
+
+Database: MongoDB
+
+🌟 What Drives Me
+
+I love turning ideas into working solutions and learning something new every day. My goal is to become a strong full-stack developer who delivers high-quality products and brings value to projects and teams.
 
 
 
